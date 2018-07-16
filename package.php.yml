@@ -1,0 +1,14 @@
+name: vkfox
+version: 1.0.0
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+  jphp-httpserver-ext: '*'
+  jphp-httpclient-ext: '*'
+  jphp-mysql-ext: '*'
+plugins:
+- App
+sources:
+- src
+includes:
+- App.php
