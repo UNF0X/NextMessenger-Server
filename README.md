@@ -1,6 +1,8 @@
 # NextMessenger API Server, Инструкция по установке
 Для запуска сервера понадобится установленный JPPM, VPS или веб сервер на Windows
 
+JPPM - https://github.com/jphp-group/jphp/tree/master/packager
+
 1. Расспакуйте сервер в любую папку
 2. Импортируйте next_messenger.sql в вашу базу данных MYSQL
 3. Введите данные от базы данных по пути: src/App/.env
